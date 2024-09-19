@@ -1,2 +1,2 @@
-# new--one
+# QR-generator
 for practice only
